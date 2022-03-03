@@ -4,16 +4,29 @@ My repositories on 'https://github.com/pjgsch'.
 
 <pre>
 
+----------------------------------------------------------------------
 
-bieb    : This is in Dutch and contains things for the library Bibliocenter.
-LaTeX   : Documentation, style files and template files for LaTeX.
+Finite Element Method packages for Matlab and/or Octave.
 
-Still to come:
+femplx  : plane stress/strain and axisymmetric
+femtrs  : two- and three-dimensional trusses
+disco   : discrete computing, one- and two-dimensional
 
-FEM     : Finite Element Method packages for Matlab and/or Octave.
-          -  plane stress/strain and axisymmetric
-          -  two- and three-dimensional trusses
-          -  discrete dynamics, one- and two-dimensional
-LAM     : calculate effective properties of composites and laminates
+----------------------------------------------------------------------
+
+lam     : calculate effective properties of composites and laminates
+
+----------------------------------------------------------------------
+
+latex   : Documentation, style files and template files for LaTeX.
+
+----------------------------------------------------------------------
+
+bieb    : Tools and info for the library Bibliocenter (in Dutch).
+
+----------------------------------------------------------------------
+
+email:  pjgsch4git@freedom.nl
 
 </pre>
+
