@@ -6,23 +6,26 @@ My repositories on 'https://github.com/pjgsch'.
 
 ----------------------------------------------------------------------
 
-Finite Element Method packages for Matlab and/or Octave.
+Finite Element Analysis packages for Matlab (and/or Octave).
 
-femplx  : plane stress/strain and axisymmetric
-femtrs  : two- and three-dimensional trusses
-disco   : discrete computing, one- and two-dimensional
-
-----------------------------------------------------------------------
-
-lam     : calculate effective properties of composites and laminates
+fem-plax  : plane stress/strain and axisymmetric
+fem-truss : two- and three-dimensional trusses
 
 ----------------------------------------------------------------------
 
-latex   : Documentation, style files and template files for LaTeX.
+lam       : calculate effective properties of composites and laminates
 
 ----------------------------------------------------------------------
 
-bieb    : Tools and info for the library Bibliocenter (in Dutch).
+latex     : Documentation, style files and template files for LaTeX.
+
+----------------------------------------------------------------------
+
+bieb      : Tools and info for the library Bibliocenter (in Dutch).
+
+----------------------------------------------------------------------
+
+tools     : Documentation, demo files and test files for computer languages.
 
 ----------------------------------------------------------------------
 
