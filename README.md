@@ -10,6 +10,7 @@ Finite Element Analysis packages for Matlab (and/or Octave).
 
 fem-plax  : plane stress/strain and axisymmetric
 fem-truss : two- and three-dimensional trusses
+fem-disco : discrete systems, one- and two-dimensional
 
 ----------------------------------------------------------------------
 
